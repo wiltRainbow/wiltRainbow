@@ -7,7 +7,7 @@ intel core i3-4010u \
 Laptop without battery 
 
 BUT \
-unless my super ~expensive~ useful smartphone got more RAM and more Hz on CPU everything's absolutely fine
+as long as my super ~expensive~ useful mobile got more RAM and more Hz on CPU everything's absolutely fine
 
 
 #### ~Links~ Link
