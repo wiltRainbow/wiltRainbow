@@ -4,7 +4,7 @@
 
 intel core i3-4010u 1.7 GHz \
 4gb RAM \
-Laptop without battery 
+Laptop without battery \
 Mobile with more RAM and better CPU
 
 
